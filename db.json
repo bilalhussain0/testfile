@@ -1,4 +1,4 @@
-  "posts": [
+ [ "posts": {
     {
       "id": 1,
       "title": "hello"
@@ -11,9 +11,9 @@
       "id": 1,
       "title": "Hussain"
     }
-  ],
-  "profile": [
+},
+  "profile": {
     "id" : 1,
     "name": "typicode"
-  ]
-
+  }
+]
