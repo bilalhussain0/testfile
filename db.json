@@ -13,8 +13,8 @@
       "title": "Hussain"
     }
   ],
-  "profile": {
+  "profile": [
     "id" : 1,
     "name": "typicode"
   }
-}
+]
