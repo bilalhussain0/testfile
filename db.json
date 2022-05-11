@@ -1,23 +1,19 @@
- [ 
+{
   "posts": [
-  {
-    "userId": 1,
-    "id": 1,
-    "title": "to make a blinded choice to reject or provident to task"
+    {
+      "id": 1,
+      "title": "hello"
+    },
+   {
+      "id": 2,
+      "title": "bilal"
+    },
+   {
+      "id": 3,
+      "title": "hussain"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-  {
-    "userId": 1,
-    "id": 2,
-    "title" "who is to be"
-  }
-  {
-    "userId": 1,
-    "id": 3,
-    "title": "abuse her as an exercise in who she or she is"
-  }
-  {
-    "userId": 1,
-    "id": 4,
-    "title": "he is blinded"
-  }
-]
+}
